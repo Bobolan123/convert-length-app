@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Length Converter Pro</string>
+    <string name="title_length_converter">Precision Length Converter</string>
+    <string name="hint_enter_value">Enter measurement value</string>
+    <string name="label_from_unit">Source Unit</string>
+    <string name="label_to_unit">Target Unit</string>
+    <string name="button_convert">Perform Conversion</string>
+    <string name="label_result">Calculated Result</string>
+    <string name="error_empty_value">Please enter a valid measurement value</string>
+    <string name="error_invalid_number">Please enter a valid number format</string>
+    <string name="fab_swap_units">Swap conversion units</string>
+    <string name="conversion_complete">Conversion completed successfully</string>
+</resources>
